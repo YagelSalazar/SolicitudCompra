@@ -1,0 +1,26 @@
+{
+    "todos": [
+      {
+        "partidaP": "task1",
+        "cantidad": "3",
+        "unidadMedida": "caja",
+        "description": "Borradores",
+        "importe": "345"
+      },
+      {
+        "partidaP": "task2",
+        "cantidad": "7",
+        "unidadMedida": "caja",
+        "description": "Rasp Berry PI",
+        "importe": "3544"
+      },
+      {
+        "partidaP": "task3",
+        "cantidad": "3",
+        "unidadMedida": "caja",
+        "description": "Marcadores para pizzarron",
+        "importe": "654"
+      }
+    ]
+  }
+  
